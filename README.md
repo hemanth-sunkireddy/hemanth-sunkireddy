@@ -84,6 +84,18 @@ src="https://github.com/hemanth-sunkireddy/hemanth-sunkireddy/raw/main/Hi.gif" h
       </a>
       <br>Express JS
     </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="https://tailwindui.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind CSS
+    </td>
      <td align="center" width="96">
       <a href="https://unity.com/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/799px-Unity_2021.svg.png" width="48" height="48" alt="TypeScript" />
