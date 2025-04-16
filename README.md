@@ -2,7 +2,7 @@
 src="https://github.com/hemanth-sunkireddy/hemanth-sunkireddy/raw/main/Hi.gif" height="32" /></h1>
 
 ### 👨‍💻 About
-<p>I’m a third-year CSE undergraduate at IIIT Hyderabad, where I worked as part of a team of five to develop an Android app for the IIIT community (students, faculty, and staff) using React Native and FastAPI. We developed the app from scratch, and it is now live, serving more than 500 users.</p>
+<p>I’m a third-year CSE undergraduate at IIIT Hyderabad, where I worked as part of a team of five to develop an Android app for the IIIT community (students, faculty, and staff) using React Native and FastAPI. We built the app from scratch, and it is now live on the <a href="https://play.google.com/store/apps/details?id=com.iiith.ims_app" target="_blank">Google Play Store</a>, serving more than 500 users.</p>
 
 <p>I’m part of the E-Cell Tech Team, where I develop and maintain websites for events such as E-Cell Megathon and Fail Events, and enhanced the main E-Cell site with a Jekyll theme. I also worked on the "Campus Works" project at IIIT Hyderabad using React.js.</p>
 
@@ -14,11 +14,11 @@ src="https://github.com/hemanth-sunkireddy/hemanth-sunkireddy/raw/main/Hi.gif" h
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/hemanth-sunkireddy/Escape-Penguin">
-        <img src="https://github.com/hemanth-sunkireddy/Penguin-Glide/blob/main/fastlane/metadata/android/en-IN/images/phoneScreenshots/1_en-IN.png" width="200px;" />
+      <a href="https://play.google.com/store/apps/details?id=com.iiith.ims_app">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/IIIT_logo.png" width="200px;" />
       </a>
       <br />
-      <a href="https://github.com/hemanth-sunkireddy/Penguin-Glide">Escape Penguin (Android Mobile Game)</a>
+      <a href="https://github.com/hemanth-sunkireddy/Penguin-Glide">My IIIT (H) Android App</a>
     </td>
      <td align="center">
       <a href="https://github.com/hemanth-sunkireddy/BloodLytics">
@@ -37,6 +37,13 @@ src="https://github.com/hemanth-sunkireddy/hemanth-sunkireddy/raw/main/Hi.gif" h
   </tr>
   
   <tr>
+     <td align="center">
+      <a href="https://github.com/hemanth-sunkireddy/Escape-Penguin">
+        <img src="https://github.com/hemanth-sunkireddy/Penguin-Glide/blob/main/fastlane/metadata/android/en-IN/images/phoneScreenshots/1_en-IN.png" width="200px;" />
+      </a>
+      <br />
+      <a href="https://github.com/hemanth-sunkireddy/Penguin-Glide">Escape Penguin (Android Mobile Game)</a>
+    </td>
     <td align="center">
       <a href="https://github.com/hemanth-sunkireddy/IoT_Project">
         <img src="https://github.com/hemanth-sunkireddy/IoT_Project/blob/main/homepage.png" width="200px;" />
@@ -54,6 +61,24 @@ src="https://github.com/hemanth-sunkireddy/hemanth-sunkireddy/raw/main/Hi.gif" h
 
 <table>
   <tr>
+     <td align="center" width="96">
+      <a href="https://dev.mysql.com/doc/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>SQL
+     </td>
+      <td align="center" width="96"> 
+      <a href="https://www.mongodb.com/" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" width="48" height="48" alt="Mongo" />
+      </a>
+      <br>Mongo DB
+    </td>
+       <td align="center" width="96"> 
+      <a href="https://hadoop.apache.org/" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="48" height="48" alt="Mongo" />
+      </a>
+      <br>Hadoop
+    </td>
      <td align="center" width="96"> 
       <a href="https://react-native.org" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React Native" />
@@ -71,12 +96,6 @@ src="https://github.com/hemanth-sunkireddy/hemanth-sunkireddy/raw/main/Hi.gif" h
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
-    </td>
-     <td align="center" width="96"> 
-      <a href="https://www.mongodb.com/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" width="48" height="48" alt="Mongo" />
-      </a>
-      <br>Mongo DB
     </td>
     <td align="center" width="96">
       <a href="https://expressjs.com/">
@@ -102,8 +121,6 @@ src="https://github.com/hemanth-sunkireddy/hemanth-sunkireddy/raw/main/Hi.gif" h
       </a>
       <br>Unity
     </td>
-    
-    
   </tr>
 </table>
 
