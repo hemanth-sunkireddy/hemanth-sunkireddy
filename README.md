@@ -9,35 +9,7 @@
 
 
 ---
-### :sparkles: My Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.iiith.ims_app">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/IIIT_logo.png" width="200px;" />
-      </a>
-      <br />
-      <a href="https://github.com/hemanth-sunkireddy/Penguin-Glide">My IIIT (H) Android App</a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/hemanth-sunkireddy/BloodLytics">
-        <img src="https://github.com/hemanth-sunkireddy/BloodLytics/blob/main/assets/images/home-page.png" width="200px;" />
-      </a>
-      <br />
-      <a href="https://github.com/hemanth-sunkireddy/BloodLytics">BloodLytics (Data Visualisation Projec)</a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/hemanth-sunkireddy/Static_Chess_Game_Visualisation">
-        <img src="https://github.com/hemanth-sunkireddy/Static_Chess_Game_Visualisation/blob/main/images/game2.png" width="200px;" />
-      </a>
-      <br />
-      <a href="https://github.com/hemanth-sunkireddy/Static_Chess_Game_Visualisation">Static Chess Game Visualisation</a>
-    </td>
-  </tr>
-</table>
-
----
 ### :sparkles: Favorite Tech
 > Tools, languages, and other things that I am Familar with.
 
