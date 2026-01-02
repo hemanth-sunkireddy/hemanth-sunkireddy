@@ -22,8 +22,7 @@ I’m currently exploring:
   **Repo:** https://github.com/hemanth-sunkireddy/MultiModal-VideoQA  
 
 - **RookDB – Storage Engine** (under Prof. Kamal Karlapalem)  
-  Implementing core components of a modern DBMS storage engine, including data layout, indexing structures, and buffer management.  
-  **Repo:** https://github.com/hemanth-sunkireddy/RookDB  
+  Implementing core components of a modern DBMS storage engine, including data layout, indexing structures, and buffer management.
 
 
 
